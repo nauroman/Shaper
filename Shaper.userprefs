@@ -1,11 +1,10 @@
 ﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaper/Scripts/ExtrudeTriangles.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaper/Scripts/BTest.cs">
     <Files>
-      <File FileName="Assets/Shaper/Scripts/BTest.cs" Line="147" Column="13" />
-      <File FileName="Assets/Shaper/Scripts/ExtrudeTriangles.cs" Line="154" Column="70" />
-      <File FileName="Assets/Shaper/Scripts/SelectedTriangles.cs" Line="1" Column="1" />
-      <File FileName="Assets/Shaper/Scripts/MoveTriangles.cs" Line="1" Column="1" />
+      <File FileName="Assets/Shaper/Scripts/BTest.cs" Line="195" Column="23" />
+      <File FileName="Assets/Shaper/Scripts/ExtrudeTriangles.cs" Line="50" Column="17" />
+      <File FileName="Assets/Shaper/Scripts/MoveTriangles.cs" Line="9" Column="70" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
