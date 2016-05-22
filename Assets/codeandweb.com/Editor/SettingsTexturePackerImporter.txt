@@ -1,0 +1,8 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Shaper/Atlases/ui.tpsheet
+textureFileNames:
+- Assets/Shaper/Atlases/ui.png
+normalmapFileNames:
+- 
