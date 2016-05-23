@@ -232,17 +232,6 @@ namespace Flashunity.Shaper
                     triangles [indexPos] = newVerticesIndices [index];
                 } else
                 {
-                    /*
-                if (index >= mesh.vertices.Length)
-                {
-                    Debug.Log("i: " + i);
-                    Debug.Log("indexPos: " + indexPos);
-                    Debug.Log("index: " + index);
-                    Debug.Log("mesh.vertices.length: " + mesh.vertices.Length);
-                    continue;
-                }
-                */
-//                    Debug.DebugBreak();
 
                     var v = mesh.vertices [index];
                     var n = mesh.normals [index];

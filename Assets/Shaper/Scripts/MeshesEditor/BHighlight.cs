@@ -38,11 +38,11 @@ namespace Flashunity.Shaper
             }
 
 
-//            selectedMesh.normals = normals;
+            selectedMesh.normals = normals;
 
             selectedMesh.triangles = triangles;
 
-            selectedMesh.RecalculateNormals();
+//            selectedMesh.RecalculateNormals();
 
             selected.transform.parent = null;
         }
